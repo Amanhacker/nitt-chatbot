@@ -1,8 +1,11 @@
-# nitt-chatbot
+# NITT Chatbot
 
-This repo contains the code of a Q&A type Chatbot developed during the intra NITT Hackathon "TransfiNITT" 2020 using Rasa, especially to answer each and every query faced by freshers coming every year in college.
+This repository contains the code for a Q&A type chatbot developed during the intra NITT Hackathon "TransfiNITT" 2020 using Rasa. 
 
-# Pro-Tip : 
-Go to https://github1s.com/AMANHACKER/NITT-CHATBOT for browsing through the code in the browser itself, without any text editor/Visual Studio.
+The chatbot is designed to address and answer various queries faced by freshers joining the college each year.
 
-Go to https://drive.google.com/file/d/1auGdPb5V5tkF0qDy5Cd3KooBZg-deMsr/view for seeing the video of Working NITT Chatbot.
+## Pro-Tip
+
+- Browse the code directly in your browser: [Explore the Code](https://github1s.com/AMANHACKER/NITT-CHATBOT)
+- Watch a video demonstration of the NITT Chatbot in action: [View the Video](https://drive.google.com/file/d/1auGdPb5V5tkF0qDy5Cd3KooBZg-deMsr/view)
+
