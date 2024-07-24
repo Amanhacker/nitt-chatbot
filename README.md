@@ -1,6 +1,6 @@
 # NITT Chatbot
 
-This repository contains the code for a Q&A type chatbot developed during the intra NITT Hackathon "TransfiNITT" 2020 using Rasa. 
+This repository contains the code for a Q&A type chatbot developed during the intra NITT Hackathon "TransfiNITT" 2020 using RASA framework. 
 
 The chatbot is designed to address and answer various queries faced by freshers joining the college each year.
 
